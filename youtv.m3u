@@ -1,0 +1,47 @@
+﻿#EXTINF:-1 tvg-id="ANTV" tvg-logo="https://iili.io/JMp31cb.png" group-title="NASIONAL",ANTV
+#EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
+https://flv.intechmedia.net/live/ch108.m3u8
+
+#EXTINF:-1 tvg-id="TVOne" tvg-logo="https://iili.io/JV3xDo7.png" group-title="NATIONAL NEWS",tvOne
+#EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
+https://flv.intechmedia.net/live/ch109.m3u8
+
+#EXTINF:-1 tvg-id="test TV" tvg-logo="https://iili.io/JV3x6cG.png" group-title="NATIONAL NEWS",test TV 1
+#EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3 
+https://flv.intechmedia.net/live/ch102.m3u8
+
+#EXTINF:-1 tvg-id="test TV" tvg-logo="https://iili.io/JV3x6cG.png" group-title="NATIONAL NEWS",test TV 2
+#EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3 
+https://flv.intechmedia.net/live/ch101.m3u8
+
+#EXTINF:-1 tvg-id="test TV" tvg-logo="https://iili.io/JV3x6cG.png" group-title="NATIONAL NEWS",test TV 3
+#EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3 
+https://flv.intechmedia.net/live/ch103.m3u8
+
+#EXTINF:-1 tvg-id="test TV" tvg-logo="https://iili.io/JV3x6cG.png" group-title="NATIONAL NEWS",test TV 4
+#EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3 
+https://flv.intechmedia.net/live/ch104.m3u8
+
+#EXTINF:-1 tvg-id="test TV" tvg-logo="https://iili.io/JV3x6cG.png" group-title="NATIONAL NEWS",test TV 5
+#EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3 
+https://flv.intechmedia.net/live/ch105.m3u8
+
+#EXTINF:-1 tvg-id="test TV" tvg-logo="https://iili.io/JV3x6cG.png" group-title="NATIONAL NEWS",test TV 6
+#EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3 
+https://flv.intechmedia.net/live/ch106.m3u8
+
+#EXTINF:-1 tvg-id="test TV" tvg-logo="https://iili.io/JV3x6cG.png" group-title="NATIONAL NEWS",test TV 7
+#EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3 
+https://flv.intechmedia.net/live/ch107.m3u8
+
+#EXTINF:-1 tvg-id="test TV" tvg-logo="https://iili.io/JV3x6cG.png" group-title="NATIONAL NEWS",test TV 8
+#EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3 
+https://flv.intechmedia.net/live/ch110.m3u8
+
+#EXTINF:-1 tvg-id="test TV" tvg-logo="https://iili.io/JV3x6cG.png" group-title="NATIONAL NEWS",test TV 9
+#EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3 
+https://flv.intechmedia.net/live/ch111.m3u8
+
+#EXTINF:-1 tvg-id="test TV" tvg-logo="https://iili.io/JV3x6cG.png" group-title="NATIONAL NEWS",test TV 10
+#EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3 
+https://flv.intechmedia.net/live/ch112.m3u8
