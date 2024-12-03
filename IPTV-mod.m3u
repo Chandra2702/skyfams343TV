@@ -77,7 +77,7 @@ https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
 
 <=============== INDONESIA NEWS =====================>
 
-#EXTINF:-1 tvg-id="TVOne" tvg-logo="https://iili.io/JV3xDo7.png" group-title="NATIONAL NEWS",tvOne
+#EXTINF:-1 tvg-id="TVOne" tvg-logo="https://iili.io/JV3xDo7.png" group-title="INDONESIA NEWS",tvOne
 #EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
 https://flv.intechmedia.net/live/ch109.m3u8
 
