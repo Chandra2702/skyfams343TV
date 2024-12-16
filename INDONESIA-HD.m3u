@@ -71,14 +71,6 @@ https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
 #EXTINF:-1 tvg-logo="https://iili.io/JMp3PVt.png" group-title="INDONESIA TV",RTV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/live/1561/master.m3u8?hdnts=exp=1734374295~acl=/live/1561/master.m3u8!/hls-p/ingest_1561*/*!/hls-b/ingest_1561*/*~id=103949409~hmac=199d084391ae6febf272b3babf3d5b08d56b567a287ee91844b64ea9cb89c7c4
-#EXTINF:-1 tvg-logo="https://iili.io/JMp3WNV.png" group-title="INDONESIA TV",DAAI TV HD
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://drmid.layarkacatv.me/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://cdnjkt4.transvision.co.id:1000/live/master/5/4028c68572841ba301729cbde4783c06/manifest.mpd
 
 #EXTINF:-1 tvg-id="Nusantara TV" tvg-logo="https://iili.io/JMp3rDN.png" group-title="INDONESIA TV",Nusantara TV HD
 https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
