@@ -41,9 +41,9 @@ https://video.detik.com/trans7/smil:trans7.smil/chunklist_w1791373024_b744100_sl
 #EXTINF:-1 tvg-id="ANTV.id" tvg-logo="https://iili.io/JMp31cb.png" group-title="INDONESIA TV",ANTV
 https://cempedak-live-cdn.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
  
-#EXTINF:-1 tvg-id="Moji" tvg-logo="https://iili.io/JMp3vUJ.png" group-title="INDONESIA TV",MOJI
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
-https://cdn08jtedge.indihometv.com/dassdvr/134/ochannel/manifest.mpd
+#EXTINF:-1 tvg-id="Moji" tvg-logo="https://iili.io/JMp3vUJ.png" group-title="INDONESIA TV",MOJI HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://etslive-v3-vidio-com-tokenized.akamaized.net/live/206/master.m3u8?hdnts=exp=1734373084~acl=/live/206/master.m3u8!/hls-p/ingest_206*/*!/hls-b/ingest_206*/*~id=allUsers~hmac=a5f1d108ba6a5cce3b3b5323c6929a36157dd0bb72bc1e3af41e98bb3d1fd494
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
@@ -54,11 +54,9 @@ https://cempedak-live-cdn.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
 #EXTINF:-1 tvg-id="TVRI" tvg-logo="https://iili.io/JMp3DJf.png" group-title="INDONESIA TV",TVRI
 https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
-#EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://iili.io/JMp3PVt.png", RTV
-https://cempedak-live-cdn.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd
+#EXTINF:-1 tvg-logo="https://iili.io/JMp3PVt.png" group-title="INDONESIA TV",RTV HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/live/1561/master.m3u8?hdnts=exp=1734374295~acl=/live/1561/master.m3u8!/hls-p/ingest_1561*/*!/hls-b/ingest_1561*/*~id=103949409~hmac=199d084391ae6febf272b3babf3d5b08d56b567a287ee91844b64ea9cb89c7c4
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
@@ -77,9 +75,9 @@ https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
 
 <=============== INDONESIA NEWS =====================>
 
-#EXTINF:-1 tvg-id="TVOne.id" group-title="INDONESIA NEWS" tvg-logo="https://iili.io/JV3xDo7.png", tvOne
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-http://op-group1-swiftservehd-1.dens.tv/h/h224/02.m3u8
+#EXTINF:-1 tvg-id="TVOne.id" group-title="INDONESIA NEWS" tvg-logo="https://iili.io/JV3xDo7.png", TVOne
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/live/783/master.m3u8?hdnts=exp=1734373507~acl=/live/783/master.m3u8!/hls-p/ingest_783*/*!/hls-b/ingest_783*/*~id=103949409~hmac=324f816cd0c6dcc556c238c2c1686a3b078a0a805b38c585d870a64f0f42ba62
 
 #EXTINF:-1 tvg-id="Metro TV" tvg-logo="https://iili.io/JV3xZtS.png" group-title="INDONESIA NEWS",Metro TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
