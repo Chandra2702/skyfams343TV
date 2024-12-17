@@ -54,7 +54,8 @@ https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016cd6e9c59
 
 #EXTINF:-1 tvg-id="Moji" tvg-logo="https://iili.io/JMp3vUJ.png" group-title="INDONESIA TV",MOJI HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-https://etslive-v3-vidio-com-tokenized.akamaized.net/live/206/master.m3u8?hdnts=exp=1734373084~acl=/live/206/master.m3u8!/hls-p/ingest_206*/*!/hls-b/ingest_206*/*~id=allUsers~hmac=a5f1d108ba6a5cce3b3b5323c6929a36157dd0bb72bc1e3af41e98bb3d1fd494
+#EXTVLCOPT:https://www.vidio.com/
+https://etslive-v3-vidio-com-tokenized.akamaized.net/live/206/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://iili.io/JMp3URR.png" group-title="INDONESIA TV",NET. HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
