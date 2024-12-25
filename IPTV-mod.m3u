@@ -404,35 +404,6 @@ https://luck.openwindows038.workers.dev/play.mpd?id=9182&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://luck.openwindows038.workers.dev/play?id=9183&type=drm 
 https://luck.openwindows038.workers.dev/play.mpd?id=9183&type=dash
 
-<================ KOREAN TV ===================>
-
-#EXTINF:-1 tvg-id="" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="https://www.dens.tv/images/channel-logo/126.jpg" group-title="KOREAN TV",NaDoo Korean
-http://op-group1-swiftservehd-1.dens.tv/h/h125/live.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
-#EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 group-title="KOREAN TV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_109.png",TVN Movies Indonesia
-https://cempedak-live-cdn.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd
-
-#EXTINF:-1 tvg-id= "K-Plus" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="https://assetsmysky.blob.core.windows.net/assetsmysky/production/plans-and-bundles/1557989718_k-plus.png" group-title="KOREAN TV",K+
-http://rr.dens.tv/h/h08/index2.m3u8
-
-#EXTINF:-1 tvg-id="KBSWorld" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/KBS_World.svg/2560px-KBS_World.svg.png" group-title="KOREAN TV",KBS WORLD
-http://edge.linknetott.swiftserve.com/channelgroup5/cg542production/ch262/03.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
-#EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 group-title="KOREAN TV" tvg-logo="https://dl.dropboxusercontent.com/s/o3oc07hz412yo99/one.png", One
-https://cempedak-live-cdn.mncnow.id/live/eds/SetOne/sa_dash_vmx/SetOne.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
-#EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 group-title="KOREAN TV" tvg-logo="https://dl.dropboxusercontent.com/s/gs3h06lqhrzz6kz/tvn.png", tvN
-https://cempedak-live-cdn.mncnow.id/live/eds/tvN/sa_dash_vmx/tvN.mpd
-
 <=============== EUROPA SPORTS =====================>
 
 #EXTINF:-1 tvg-id="ASTRO SUPERSPORT.my" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium2.xml" group-title="EUROPA SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Astro_Premier_League_1_%282024%29.png",Astro Premier League
@@ -620,6 +591,41 @@ https://webtvstream.bhtelecom.ba/hls6/arena5.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://webtvstream.bhtelecom.ba/hls6/arena6.mpd
 
+<=============== AMERICAN SPORTS =====================>
+ 
+#EXTINF:-1 tvg-id="ESPN.br" tvg-logo="https://iili.io/JmoIfF2.png" group-title="AMERICAN SPORTS",ESPN Brasil
+https://super-cdn.link/espn/index.m3u8
+ 
+#EXTINF:-1 tvg-id="ESPN.2.br" tvg-logo="https://iili.io/JmoI2nf.png" group-title="AMERICAN SPORTS",ESPN 2 Brasil
+https://super-cdn.link/espn2/index.m3u8
+ 
+#EXTINF:-1 tvg-id="ESPN.3.br" tvg-logo="https://iili.io/Jmoudrl.png" group-title="AMERICAN SPORTS",ESPN 3 Brasil
+https://super-cdn.link/espn3/index.m3u8
+ 
+#EXTINF:-1 tvg-id="ESPN.4.br" tvg-logo="https://iili.io/JmouJ14.png" group-title="AMERICAN SPORTS",ESPN 4 Brasil
+https://super-cdn.link/espn4/index.m3u8
+
+#EXTINF:-1 tvg-id="Fox.Sports.2.HD.br" tvg-logo="https://iili.io/d9HjpYN.png" group-title="AMERICAN SPORTS",ESPN 5 Brasil
+https://super-cdn.link/espn5/index.m3u8
+
+#EXTINF:-1 tvg-id="ESPN.Extra.br" tvg-logo="https://iili.io/d9HjyvI.png" group-title="AMERICAN SPORTS",ESPN 6 Brasil
+https://super-cdn.link/espn6/index.m3u8
+  
+#EXTINF:-1 tvg-id="Premierefchd.br" tvg-logo="https://iili.io/JmouF7S.png" group-title="AMERICAN SPORTS",Premiere Clubes
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d98239180d8380b3a1bb28d875b1ddf2:cf836ced579257d1c76ae8809818e6c4
+https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/4zkafrcxji/out/v1/810ebca1aff0443da717da4acdeda158/cenc.mpd
+
+#EXTINF:-1 tvg-id="Sportv.br" tvg-logo="https://iili.io/JhkbGcv.png" group-title="AMERICAN SPORTS",Sportv
+https://super-cdn.link/sportv/index.m3u8
+ 
+#EXTINF:-1 tvg-id="Sportv.2.br" tvg-logo="https://iili.io/JhkbYt1.png" group-title="AMERICAN SPORTS",Sportv 2
+https://super-cdn.link/sportv2/index.m3u8
+ 
+#EXTINF:-1 tvg-id="SporTV.3.br" tvg-logo="https://iili.io/JhkbEKJ.png" group-title="AMERICAN SPORTS",Sportv 3
+https://super-cdn.link/sportv3/index.m3u8
+
 <=============== ARABIC SPORT =====================>
 
 #EXTINF:-1 tvg-id="beINSports1.qa" tvg-logo="https://iili.io/JhkLZXa.png" group-title="ARABIC SPORTS",beIN Sports 1
@@ -710,6 +716,35 @@ https://uselector.cdn.intigral-ott.net/ADSP2/ADSP2.isml/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=42d7a462640c6748371d39f23e4a18c3:f4bef9f080f4a3a52dd55d5c3b8b81e2
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 https://uselector.cdn.intigral-ott.net/SPZ/SPZ.isml/manifest.mpd
+
+<================ KOREAN TV ===================>
+
+#EXTINF:-1 tvg-id="" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="https://www.dens.tv/images/channel-logo/126.jpg" group-title="KOREAN TV",NaDoo Korean
+http://op-group1-swiftservehd-1.dens.tv/h/h125/live.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 group-title="KOREAN TV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_109.png",TVN Movies Indonesia
+https://cempedak-live-cdn.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd
+
+#EXTINF:-1 tvg-id= "K-Plus" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="https://assetsmysky.blob.core.windows.net/assetsmysky/production/plans-and-bundles/1557989718_k-plus.png" group-title="KOREAN TV",K+
+http://rr.dens.tv/h/h08/index2.m3u8
+
+#EXTINF:-1 tvg-id="KBSWorld" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/KBS_World.svg/2560px-KBS_World.svg.png" group-title="KOREAN TV",KBS WORLD
+http://edge.linknetott.swiftserve.com/channelgroup5/cg542production/ch262/03.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 group-title="KOREAN TV" tvg-logo="https://dl.dropboxusercontent.com/s/o3oc07hz412yo99/one.png", One
+https://cempedak-live-cdn.mncnow.id/live/eds/SetOne/sa_dash_vmx/SetOne.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 group-title="KOREAN TV" tvg-logo="https://dl.dropboxusercontent.com/s/gs3h06lqhrzz6kz/tvn.png", tvN
+https://cempedak-live-cdn.mncnow.id/live/eds/tvN/sa_dash_vmx/tvN.mpd
 
 <=============== KOREAN ENTERTAINMENT =====================>
 
