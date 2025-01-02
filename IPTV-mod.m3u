@@ -748,26 +748,26 @@ https://uselector.cdn.intigral-ott.net/SPZ/SPZ.isml/manifest.mpd
 
 <================ KOREAN TV ===================>
 
-#EXTINF:-1 tvg-id="KBS1" tvg-logo="https://iili.io/JmoPytR.png" group-title="KOREA",KBS 1TV
+#EXTINF:-1 tvg-id="KBS1" tvg-logo="https://iili.io/JmoPytR.png" group-title="KOREAN TV",KBS 1TV
 http://mytv.dothome.co.kr/ch/public/1.php
  
-#EXTINF:-1 tvg-id="KBS2" tvg-logo="https://iili.io/JmoiKSn.png" group-title="KOREA TV",KBS 2TV
+#EXTINF:-1 tvg-id="KBS2" tvg-logo="https://iili.io/JmoiKSn.png" group-title="KOREAN TV",KBS 2TV
 http://mytv.dothome.co.kr/ch/public/3.php
  
-#EXTINF:-1 tvg-id="SBS" tvg-logo="https://iili.io/JmoiJMN.png" group-title="KOREA TV",SBS
+#EXTINF:-1 tvg-id="SBS" tvg-logo="https://iili.io/JmoiJMN.png" group-title="KOREAN TV",SBS
 http://1.222.207.80:1935/live/cjbtv/playlist.m3u8
  
-#EXTINF:-1 tvg-id="MBC" tvg-logo="https://iili.io/Jmoi3Ft.png" group-title="KOREA TV",MBC
+#EXTINF:-1 tvg-id="MBC" tvg-logo="https://iili.io/Jmoi3Ft.png" group-title="KOREAN TV",MBC
 http://211.33.246.4:32954/cj_live/myStream.sdp/playlist.m3u8
  
-#EXTINF:-1 tvg-id="Mnet" tvg-logo="https://iili.io/JmoiFcX.png" group-title="KOREA TV",MNet
+#EXTINF:-1 tvg-id="Mnet" tvg-logo="https://iili.io/JmoiFcX.png" group-title="KOREAN TV",MNet
 https://m3u-editor.com/serve/tchtviptvplaylist/767388510
  
-#EXTINF:-1 tvg-id="TV조선" tvg-logo="https://iili.io/JmoiHnp.png" group-title="KOREA TV",TV Chosun
+#EXTINF:-1 tvg-id="TV조선" tvg-logo="https://iili.io/JmoiHnp.png" group-title="KOREAN TV",TV Chosun
 #EXTVLCOPT:http-referrer=http://broadcast.tvchosun.com/onair/on.cstv
 http://onair.cdn.tvchosun.com/origin1/_definst_/tvchosun_s1/playlist.m3u8
  
-#EXTINF:-1 tvg-id="TVCHOSUN2" tvg-logo="https://iili.io/JmoidPI.png" group-title="KOREA TV",TV Chosun 2
+#EXTINF:-1 tvg-id="TVCHOSUN2" tvg-logo="https://iili.io/JmoidPI.png" group-title="KOREAN TV",TV Chosun 2
 #EXTVLCOPT:http-referrer=http://broadcast.tvchosun.com/onair/on2.cstv
 http://onair2.cdn.tvchosun.com/origin2/_definst_/tvchosun_s3/playlist.m3u8
 
