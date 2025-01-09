@@ -1094,7 +1094,7 @@ https://thedream.biz.id/Kusakudakes/rooid2.php/.mpd?id=6786
 #KODIPROP:inputstream.adaptive.license_key=7af7c0ac3c77478be9712bfc0f0d28b4:845b9d91cefb70530380e8749d8dc201
 https://thedream.biz.id/Kusakudakes/rooid2.php/.mpd?id=9182
 
-#EXTINF:-1 tvg-id="Champions TV 6" tvg-logo="https://iili.io/2lP4f19.png" group-title="CHANNEL BACKUPS",CTV 6 (Backup)
+#EXTINF:-1 tvg-id="Champions TV 6" tvg-logo="https://iili.io/2lP4f19.png" group-title="CHANNEL BACKUP",CTV 6 (Backup)
 #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
