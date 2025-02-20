@@ -946,22 +946,22 @@ https://unifi-live03.secureswiftcontent.com/UnifiHD/live03.mpd
 https://unifi-live09.secureswiftcontent.com/UnifiHD/live09.mpd
 
 #EXTINF:-1 tvg-id="ASTRO SUPERSPORT.my" group-title="MALAYSIA TV" tvg-logo="https://iili.io/39cpGm7.png",Astro Premier League
-http://15.235.144.67:35461/654321/123456/11243
+http://15.235.144.67:35461/654321/123456/970
 
 #EXTINF:-1 tvg-id="ASTRO SUPERSPORT 2.my" group-title="MALAYSIA TV" tvg-logo="https://iili.io/39cpGm7.png",Astro Premier League 2
 http://15.235.144.67:35461/654321/123456/971
 
 #EXTINF:-1 tvg-id="ASTRO SUPERSPORT 3.my" group-title="MALAYSIA TV" tvg-logo="https://iili.io/39l9IoX.png",Astro GrandStand
-http://51.79.248.110:888/Lyana/Lyana/13461
+http://15.235.144.67:35461/654321/123456/11243
 
 #EXTINF:-1 tvg-id="ASTRO SUPERSPORT 4.my" group-title="MALAYSIA TV" tvg-logo="https://iili.io/39lKa1t.png",Astro Football
-http://51.79.248.110:888/Lyana/Lyana/13464
-
-#EXTINF:-1 tvg-id="ASTRO SUPERSPORT 4.my" tvg-logo="https://iili.io/39lKe2e.png" group-title="MALAYSIA TV", Supersports Premier 4 HD(a)
 http://iptv12k.com:35461/654321/123456/7984
 
+#EXTINF:-1 tvg-id="ASTRO SUPERSPORT 4.my" tvg-logo="https://iili.io/39lKe2e.png" group-title="MALAYSIA TV", Supersports Premier 4 HD(a)
+http://iptv12k.com:35461/654321/123456/7985
+
 #EXTINF:-1 tvg-id="ASTRO SUPERSPORT 4.my" tvg-logo="https://iili.io/39lKe2e.png" group-title="MALAYSIA TV", Supersports Premier 4 HD
-http://iptv12k.com:35461/654321/123456/7983
+http://iptv12k.com:35461/654321/123456/7986
 
 
 <=============== THAILAND TV =====================>
