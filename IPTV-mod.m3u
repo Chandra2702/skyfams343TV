@@ -321,6 +321,9 @@ https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 #KODIPROP:inputstream.adaptive.license_key=6a8b65c83036329e7185b9cd8cbdee29:0eb2beb5633f8e35cafab45af3d21de0
 https://why.biz.id/Iptv/rooid.php/stream.mpd?id=205
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://iili.io/39ciYfS.png" group-title="INDONESIA SPORTS",Proliga Volley
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/298550
+
 #EXTINF:-1 tvg-id="Fight Sports - [Channel 304].id" tvg-logo="https://iili.io/JjzVgt4.png" group-title="INDONESIA SPORTS",Fight Sports
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d2159ffe3be22ed4916a6abe4d58d265:3e4efcec08d5d5c18a403b7048a43638
@@ -441,24 +444,6 @@ https://thedream.biz.id/Kusakudakes/rooid.php/.mpd?id=18190
 #EXTINF:-1 tvg-logo="https://iili.io/39uwJhN.png" group-title="INDONESIA SPORTS", SBS SPORTS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 http://iptv12k.com:35461/live/654321/123456/3214.m3u8
-
-#EXTINF:-1 tvg-id="ASTRO SUPERSPORT.my" tvg-url="https://www.bevy.be/bevyfiles/MALAYSIA TVpremium2.xml" group-title="INDONESIA SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Astro_Premier_League_1_%282024%29.png",Astro Premier League
-http://15.235.144.67:35461/654321/123456/11243
-
-#EXTINF:-1 tvg-id="ASTRO SUPERSPORT 2.my" tvg-url="https://www.bevy.be/bevyfiles/MALAYSIA TVpremium2.xml" group-title="INDONESIA SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYoldvZA2b7EAOQuwIVCHp53EH1eocLEJxEg&s",Astro Premier League 2
-http://15.235.144.67:35461/654321/123456/971
-
-#EXTINF:-1 tvg-id="ASTRO SUPERSPORT 3.my" tvg-url="https://www.bevy.be/bevyfiles/MALAYSIA TVpremium2.xml" group-title="INDONESIA SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Astro_Grandstand_%282024%29.png",Astro GrandStand
-http://51.79.248.110:888/Lyana/Lyana/13461
-
-#EXTINF:-1 tvg-id="ASTRO SUPERSPORT 4.my" tvg-url="https://www.bevy.be/bevyfiles/MALAYSIA TVpremium2.xml" group-title="INDONESIA SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/Astro_Football_%282024%29.png",Astro Football
-http://51.79.248.110:888/Lyana/Lyana/13464
-
-#EXTINF:-1 tvg-id="ASTRO SUPERSPORT 4.my" tvg-url="https://www.bevy.be/bevyfiles/MALAYSIA TVpremium2.xml" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/539_144.png" group-title="INDONESIA SPORTS", Supersports Premier 4 HD(a)
-http://iptv12k.com:35461/654321/123456/7984
-
-#EXTINF:-1 tvg-id="ASTRO SUPERSPORT 4.my" tvg-url="https://www.bevy.be/bevyfiles/MALAYSIA TVpremium2.xml" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/539_144.png" group-title="INDONESIA SPORTS", Supersports Premier 4 HD
-http://iptv12k.com:35461/654321/123456/7983
 
 <=============== EUROPA SPORTS =====================>
 
@@ -959,6 +944,25 @@ https://unifi-live03.secureswiftcontent.com/UnifiHD/live03.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Zfavh1DSSyMNkbmEI3rB5A", "kid":"HfqKZFr0HoPFIL3fkTk0yg" } ], "type":"temporary" }
 https://unifi-live09.secureswiftcontent.com/UnifiHD/live09.mpd
+
+#EXTINF:-1 tvg-id="ASTRO SUPERSPORT.my" group-title="MALAYSIA TV" tvg-logo="https://iili.io/39cpGm7.png",Astro Premier League
+http://15.235.144.67:35461/654321/123456/11243
+
+#EXTINF:-1 tvg-id="ASTRO SUPERSPORT 2.my" group-title="MALAYSIA TV" tvg-logo="https://iili.io/39cpGm7.png",Astro Premier League 2
+http://15.235.144.67:35461/654321/123456/971
+
+#EXTINF:-1 tvg-id="ASTRO SUPERSPORT 3.my" group-title="MALAYSIA TV" tvg-logo="https://iili.io/39l9IoX.png",Astro GrandStand
+http://51.79.248.110:888/Lyana/Lyana/13461
+
+#EXTINF:-1 tvg-id="ASTRO SUPERSPORT 4.my" group-title="MALAYSIA TV" tvg-logo="https://iili.io/39lKa1t.png",Astro Football
+http://51.79.248.110:888/Lyana/Lyana/13464
+
+#EXTINF:-1 tvg-id="ASTRO SUPERSPORT 4.my" tvg-logo="https://iili.io/39lKe2e.png" group-title="MALAYSIA TV", Supersports Premier 4 HD(a)
+http://iptv12k.com:35461/654321/123456/7984
+
+#EXTINF:-1 tvg-id="ASTRO SUPERSPORT 4.my" tvg-logo="https://iili.io/39lKe2e.png" group-title="MALAYSIA TV", Supersports Premier 4 HD
+http://iptv12k.com:35461/654321/123456/7983
+
 
 <=============== THAILAND TV =====================>
 
