@@ -69,13 +69,14 @@ https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
 #EXTVLCOPT:http-referrer=https://visionplus.id
+
 #EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://iili.io/JMp3WNV.png", DAAI TV
 https://cempedak-live-cdn.mncnow.id/live/eds/DAAITV/sa_dash_vmx/DAAITV.mpd
 
-#EXTINF:-1 tvg-id="Nusantara TV" tvg-logo="https://iili.io/JMp3rDN.png" group-title="INDONESIA TV",Nusantara TV
+#EXTINF:-1 tvg-id="Nusantara TV" tvg-logo="https://iili.io/2W8UsX2.png" group-title="INDONESIA TV",Nusantara TV
 https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://iili.io/JMp3XDB.png" group-title="INDONESIA TV",Garuda TV
+#EXTINF:-1 tvg-logo="https://iili.io/2rCEOZl.png" group-title="INDONESIA TV",Garuda TV
 https://etv-cdn.kdb.co.id/GarudaTV-Stream/index.m3u8
  
 #EXTINF:-1 tvg-logo="https://iili.io/JMp3eKg.png" group-title="INDONESIA TV",Magna Channel
@@ -88,6 +89,12 @@ https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
 #EXTVLCOPT:http-referrer=http://dens.tv
 https://op-group1-swiftservehd-1.dens.tv/h/h40/index.m3u8
 
+#EXTINF:-1 tvg-id="TVOne.id" tvg-logo="https://iili.io/JV3xDo7.png" group-title="INDONESIA NEWS",TVOne #2
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b6486d00c9d842d88ba1660deec8becc:67ed72016590f2138d9fc10b807708b2
+https://atemeshield1-voe.sysln.id/live/eds/TvOne/mpd/TvOne.mpd
+
 #EXTINF:-1 tvg-id="Metro TV" tvg-logo="https://iili.io/JV3xZtS.png" group-title="INDONESIA NEWS",Metro TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://edge.medcom.id/live-edge/smil:metro.smil/playlist.m3u8
@@ -95,7 +102,7 @@ https://edge.medcom.id/live-edge/smil:metro.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="CNN Indonesia" tvg-logo="https://iili.io/JV3xSnt.png" group-title="INDONESIA NEWS",CNN Indonesia
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w891045790_b384000_sleng.m3u8
  
-#EXTINF:-1 tvg-id="CNBC Indonesia" tvg-logo="https://iili.io/dfEqsVa.png" group-title="INDONESIA NEWS",CNBC Indonesia
+#EXTINF:-1 tvg-id="CNBC Indonesia" tvg-logo="https://iili.io/28yAlAN.png" group-title="INDONESIA NEWS",CNBC Indonesia
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w1843433135_b384000_sleng.m3u8
  
 #EXTINF:-1 tvg-id="Kompas TV" tvg-logo="https://iili.io/JV3x6cG.png" group-title="INDONESIA NEWS",Kompas TV
@@ -121,7 +128,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/MNCnews-HDD/sa_dash_vmx/MNCnews-HDD
 #EXTVLCOPT:http-referrer=https://visionplus.id/
 https://d1abp075u76pbq.cloudfront.net/live/eds/IDX/sa_dash_vmx/IDX.mpd
  
-#EXTINF:-1 tvg-logo="https://iili.io/JV3xUMX.png" group-title="INDONESIA NEWS",IDTV
+#EXTINF:-1 tvg-logo="https://iili.io/28yoeNn.png" group-title="INDONESIA NEWS",IDTV
 https://b1world.beritasatumedia.com/Beritasatu/B1World_1280x720.m3u8
 
 #EXTINF:-1 tvg-logo="https://iili.io/dA8evOF.png" group-title="INDONESIA NEWS",Jawa Pos TV (Surabaya)
