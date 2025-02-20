@@ -309,7 +309,10 @@ http://wms.klikhost.com:1935/tegartv/tegartv/playlist.m3u8
 https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 
 #EXTINF:-1 tvg-id="Indosiar - [Saluran 78].id" tvg-logo="https://iili.io/2h01fDJ.png" group-title="INDONESIA SPORTS",INDOSIAR BRI LIGA 1
-http://xtv.ooo:8080/live/jk8010801099/jk8010801099/350972.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6a8b65c83036329e7185b9cd8cbdee29:0eb2beb5633f8e35cafab45af3d21de0
+https://why.biz.id/Iptv/rooid.php/stream.mpd?id=205
 
 #EXTINF:-1 tvg-id="Fight Sports - [Channel 304].id" tvg-logo="https://iili.io/JjzVgt4.png" group-title="INDONESIA SPORTS",Fight Sports
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -428,7 +431,9 @@ https://thedream.biz.id/Kusakudakes/rooid.php/.mpd?id=18189
 #KODIPROP:inputstream.adaptive.license_key=bd04d04f7cac7ac4a26c43e90dfbd4b7:3d93dd66d9f6534323a77ebb6139d1f7
 https://thedream.biz.id/Kusakudakes/rooid.php/.mpd?id=18190
 
-<=============== EUROPA SPORTS =====================>
+#EXTINF:-1 tvg-logo="https://iili.io/39uwJhN.png" group-title="INDONESIA SPORTS", SBS SPORTS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+http://iptv12k.com:35461/live/654321/123456/3214.m3u8
 
 #EXTINF:-1 tvg-id="ASTRO SUPERSPORT.my" tvg-url="https://www.bevy.be/bevyfiles/MALAYSIA TVpremium2.xml" group-title="EUROPA SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Astro_Premier_League_1_%282024%29.png",Astro Premier League
 http://15.235.144.67:35461/654321/123456/11243
@@ -447,6 +452,8 @@ http://iptv12k.com:35461/654321/123456/7984
 
 #EXTINF:-1 tvg-id="ASTRO SUPERSPORT 4.my" tvg-url="https://www.bevy.be/bevyfiles/MALAYSIA TVpremium2.xml" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/539_144.png" group-title="EUROPA SPORTS", Supersports Premier 4 HD
 http://iptv12k.com:35461/654321/123456/7983
+
+<=============== EUROPA SPORTS =====================>
 
 #EXTINF:-1 tvg-id="DAZN 1" tvg-logo="https://iili.io/d06YU1p.png" group-title="EUROPA SPORTS",DAZN 1 España
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
@@ -1219,9 +1226,6 @@ https://d1abp075u76pbq.cloudfront.net/live/eds/IDX/sa_dash_vmx/IDX.mpd
 #EXTINF:-1 tvg-id="IDTV.id" tvg-logo="https://iili.io/28yoeNn.png" group-title="CHANNEL BACKUP",Beritasatu
 https://b1world.beritasatumedia.com/Beritasatu/B1World_1280x720.m3u8
  
-#EXTINF:-1 tvg-logo="https://iili.io/JmFZtFs.png" group-title="PARLIAMENTARY",TVR Parlemen
-http://103.18.181.69:1935/golive/livestream/chunklist_w1350607412.m3u8
- 
 #EXTINF:-1 tvg-id="Jawa Pos TV.id" tvg-logo="https://iili.io/dA8evOF.png" group-title="CHANNEL BACKUP",Jawa Pos TV (Surabaya)
 https://jawapostv.siar.us/jawapostv/live/playlist.m3u8
  
@@ -1364,5 +1368,39 @@ https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 #KODIPROP:inputstream.adaptive.license_key=d2159ffe3be22ed4916a6abe4d58d265:3e4efcec08d5d5c18a403b7048a43638
 #EXTVLCOPT:http-referrer=https://visionplus.id/
 https://d1abp075u76pbq.cloudfront.net/live/eds/FightSports/sa_dash_vmx/FightSports.mpd
+
+#EXTINF:-1 tvg-id="Champions TV 1.id" tvg-logo="https://iili.io/2lP4Kq7.png" group-title="CHANNEL BACKUP",CTV 1
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11 
+#KODIPROP:inputstream.adaptive.manifest_type=dash #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://video.jasoncreak8.workers.dev/play?id=17938&type=drm 
+https://video.jasoncreak8.workers.dev/play.mpd?id=17938&type=dash 
+
+#EXTINF:-1 tvg-id="Champions TV 2.id" tvg-logo="https://iili.io/2lP43sS.png" group-title="CHANNEL BACKUP",CTV 2
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11 #KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha #KODIPROP:inputstream.adaptive.license_key=https://video.jasoncreak8.workers.dev/play?id=6686&type=drm 
+https://video.jasoncreak8.workers.dev/play.mpd?id=6686&type=dash 
+
+#EXTINF:-1 tvg-id="Champions TV 3.id" tvg-logo="https://iili.io/2lP42X2.png" group-title="CHANNEL BACKUP",CTV 3
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://video.jasoncreak8.workers.dev/play?id=6786&type=drm 
+https://video.jasoncreak8.workers.dev/play.mpd?id=6786&type=dash 
+
+#EXTINF:-1 tvg-id="Champions TV 5.id" tvg-logo="https://iili.io/2lP4dzl.png" group-title="CHANNEL BACKUP",CTV 5
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11 
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://video.jasoncreak8.workers.dev/play?id=9182&type=drm 
+https://video.jasoncreak8.workers.dev/play.mpd?id=9182&type=dash 
+
+#EXTINF:-1 tvg-id="Champions TV 6.id" tvg-logo="https://iili.io/2lP4f19.png" group-title="CHANNEL BACKUP",CTV 6
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11 
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://video.jasoncreak8.workers.dev/play?id=9183&type=drm 
+https://video.jasoncreak8.workers.dev/play.mpd?id=9183&type=dash 
 
  
