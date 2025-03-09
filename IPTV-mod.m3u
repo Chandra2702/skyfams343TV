@@ -1635,3 +1635,18 @@ http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/162138
 
 #EXTINF:-1 tvg-id="SCTV - [Saluran 89].id" tvg-logo="https://iili.io/JMp3iiX.png" group-title="CHANNEL BACKUP",SCTV #3
 http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/162141
+
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+#EXTINF:-1 tvg-logo="https://iili.io/JMp36xI.png" group-title="RCTI+",RCTI (R+)
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
+
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+#EXTINF:-1 tvg-logo="https://iili.io/JMp3joP.png" group-title="RCTI+",GTV (R+)
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
+
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+#EXTINF:-1 tvg-logo="https://iili.io/JMp3kla.png" group-title="RCTI+",MNCTV (R+)
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
