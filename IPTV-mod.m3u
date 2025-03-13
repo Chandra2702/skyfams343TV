@@ -1694,3 +1694,27 @@ https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #EXTINF:-1 tvg-logo="https://iili.io/JMp3kla.png" group-title="CHANNEL BACKUP",MNCTV (R+)
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
+
+#EXTINF:-1 tvg-id="" tvg-name="RCTI" tvg-logo="https://go.erabaru.my.id/live/rcti.png" group-title="Lokal HD",RCTI
+http://tv.kudigital.pw:8080/7sq53RGYzb/FRGYtNXzyM/1
+
+#EXTINF:-1 tvg-id="" tvg-name="MNCTV" tvg-logo="https://go.erabaru.my.id/live/mnctv.png" group-title="Lokal HD",MNCTV
+http://tv.kudigital.pw:8080/7sq53RGYzb/FRGYtNXzyM/29
+
+#EXTINF:-1 tvg-id="" tvg-name="GTV" tvg-logo="https://go.erabaru.my.id/live/gtv.png" group-title="Lokal HD",GTV
+http://tv.kudigital.pw:8080/7sq53RGYzb/FRGYtNXzyM/26
+
+#EXTINF:-1 tvg-id="" tvg-name="Indosiar" tvg-logo="https://go.erabaru.my.id/live/indosiar.png" group-title="Lokal HD",Indosiar
+http://tv.kudigital.pw:8080/7sq53RGYzb/FRGYtNXzyM/2666
+
+#EXTINF:-1 tvg-id="" tvg-name="SCTV HD" tvg-logo="https://go.erabaru.my.id/live/sctv.png" group-title="Lokal HD",SCTV HD
+http://tv.kudigital.pw:8080/7sq53RGYzb/FRGYtNXzyM/11
+
+#EXTINF:-1 tvg-id="" tvg-name="Trans 7" tvg-logo="https://go.erabaru.my.id/live/trans7.png" group-title="Lokal HD",Trans 7
+http://tv.kudigital.pw:8080/7sq53RGYzb/FRGYtNXzyM/21
+
+#EXTINF:-1 tvg-id="" tvg-name="Trans TV" tvg-logo="https://go.erabaru.my.id/live/transtv.png" group-title="Lokal HD",Trans TV
+http://tv.kudigital.pw:8080/7sq53RGYzb/FRGYtNXzyM/22
+
+#EXTINF:-1 tvg-id="" tvg-name="Moji" tvg-logo="https://go.erabaru.my.id/live/moji.png" group-title="Lokal HD",Moji
+http://tv.kudigital.pw:8080/7sq53RGYzb/FRGYtNXzyM/30
