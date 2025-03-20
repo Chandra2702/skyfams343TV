@@ -4,28 +4,28 @@
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 tvg-id="RCTI HD - [Saluran 430].id" group-title="INDONESIA TV" tvg-logo="https://iili.io/JMp36xI.png",RCTI (V+)
+#EXTINF:-1 tvg-id="RCTI HD - [Saluran 430].id" group-title="INDONESIA TV" tvg-logo="https://iili.io/3xLPH7I.png",RCTI (V+)
 https://cempedak-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 
-#EXTINF:0 tvg-id="RCTI.id" group-title="INDONESIA TV" tvg-logo="https://iili.io/JMp36xI.png",RCTI (R+) 
+#EXTINF:0 tvg-id="RCTI.id" group-title="INDONESIA TV" tvg-logo="https://iili.io/3xLiTap.png",RCTI (R+) 
 https://rcti-cutv.rctiplus.id/rcti-sdi.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 tvg-id="MNCTV HD - [Saluran 432].id" group-title="INDONESIA TV" tvg-logo="https://iili.io/JMp3kla.png",MNCTV (V+)
+#EXTINF:-1 tvg-id="MNCTV HD - [Saluran 432].id" group-title="INDONESIA TV" tvg-logo="https://iili.io/3xLsieS.png",MNCTV (V+)
 https://cempedak-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 
-#EXTINF:0 tvg-id="MNCTV.id" group-title="INDONESIA TV" tvg-logo="https://iili.io/JMp3kla.png",MNCTV (R+) 
+#EXTINF:0 tvg-id="MNCTV.id" group-title="INDONESIA TV" tvg-logo="https://iili.io/3xLsdVs.png",MNCTV (R+) 
 https://mnctv-cutv.rctiplus.id/mnctv-sdi.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 tvg-id="GTV HD - [Saluran 431].id" group-title="INDONESIA TV" tvg-logo="https://iili.io/JMp3joP.png",GTV (V+)
+#EXTINF:-1 tvg-id="GTV HD - [Saluran 431].id" group-title="INDONESIA TV" tvg-logo="https://iili.io/3xLL4Cg.png",GTV (V+)
 https://cempedak-live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
 
-#EXTINF:0 tvg-id="GTV.id" group-title="INDONESIA TV" tvg-logo="https://iili.io/JMp3joP.png",GTV (R+) 
+#EXTINF:0 tvg-id="GTV.id" group-title="INDONESIA TV" tvg-logo="https://iili.io/3xLLuIt.png",GTV (R+) 
 https://gtv-cutv.rctiplus.id/gtv-sdi.m3u8
 
 #EXTINF:-1 tvg-id="Indosiar - [Saluran 78].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://iili.io/JMp3wV1.png" group-title="INDONESIA TV",INDOSIAR
