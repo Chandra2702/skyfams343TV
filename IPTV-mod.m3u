@@ -715,6 +715,22 @@ https://zekonew.koskoros.ru/zeko/premium524/mono.m3u8
 #EXTVLCOPT:http-origin=https://pkpakiplay.xyz
 https://ddy6new.koskoros.ru/ddy6/premium525/mono.m3u8
 
+#EXTINF:-1 tvg-logo="https://iili.io/3uQln5J.png" group-title="LIGA SPANYOL",LALIGA TV Hypermotion V
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://dokko1new.iosplayer.ru/dokko1/premium98/mono.m3u8
+https://ddy6new.iosplayer.ru/ddy6/premium415/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://iili.io/3uQcUSs.png" group-title="SPORTS",SS Premier League
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://ddy6new.iosplayer.ru/ddy6/premium414/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://iili.io/3uQaPG1.png" group-title="LIGA SPANYOL",SS LALIGA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://ddy6new.iosplayer.ru/ddy6/premium415/mono.m3u8
+
 #EXTINF:-1 tvg-name="" tvg-logo="https://iili.io/3ujB3fn.png" group-title="EUROPA SPORTS",Eleven Sports 1 Poland
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://pkpakiplay.xyz/
@@ -1203,25 +1219,25 @@ https://live-d-02-rogers-uw-prd.akamaized.net/out/v1/r-prd/ch-07-prd-r-v2/dash-c
 
 <=============== ASIAN SPORT =====================>
 
-#EXTINF:-1 tvg-id="ASTRO SUPERSPORT.my" tvg-logo="https://iili.io/39cpGm7.png" group-title="ASIAN SPORT",Astro Premier League
+#EXTINF:-1 tvg-id="ASTRO SUPERSPORT.my" tvg-logo="https://iili.io/3uNWyIj.png" group-title="ASIAN SPORT",Astro Premier League
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://pkpakiplay.xyz/
 #EXTVLCOPT:http-origin=https://pkpakiplay.xyz
 https://zekonew.koskoros.ru/zeko/premium125/mono.m3u8
 
-#EXTINF:-1 tvg-id="ASTRO SUPERSPORT 2.my" tvg-logo="https://iili.io/39cpGm7.png" group-title="ASIAN SPORT",Astro Premier League 2
+#EXTINF:-1 tvg-id="ASTRO SUPERSPORT 2.my" tvg-logo="https://iili.io/3uNhIwb.png" group-title="ASIAN SPORT",Astro Premier League 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://pkpakiplay.xyz/
 #EXTVLCOPT:http-origin=https://pkpakiplay.xyz
 https://zekonew.koskoros.ru/zeko/premium126/mono.m3u8
 
-#EXTINF:-1 tvg-id="ASTRO SUPERSPORT 3.my" tvg-logo="https://iili.io/39l9IoX.png" group-title="ASIAN SPORT",Astro GrandStand
+#EXTINF:-1 tvg-id="ASTRO SUPERSPORT 3.my" tvg-logo="https://iili.io/3uNj7zG.png" group-title="ASIAN SPORT",Astro GrandStand
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://pkpakiplay.xyz/
 #EXTVLCOPT:http-origin=https://pkpakiplay.xyz
 https://zekonew.koskoros.ru/zeko/premium123/mono.m3u8
 
-#EXTINF:-1 tvg-id="ASTRO SUPERSPORT 4.my" tvg-logo="https://iili.io/39lKa1t.png" group-title="ASIAN SPORT",Astro Football
+#EXTINF:-1 tvg-id="ASTRO SUPERSPORT 4.my" tvg-logo="https://iili.io/3uNhmWx.png" group-title="ASIAN SPORT",Astro Football
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://pkpakiplay.xyz/
 #EXTVLCOPT:http-origin=https://pkpakiplay.xyz
