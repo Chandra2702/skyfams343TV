@@ -2,63 +2,63 @@
 #EXTM3U url-tvg="https://www.open-epg.com/files/indonesia1.xml, https://www.open-epg.com/files/indonesia3.xml, https://www.open-epg.com/files/indonesia4.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/starhubtv.xml, https://raw.githubusercontent.com/azimabid00/epg/main/unifi_epg.xml, https://www.open-epg.com/files/malaysiapremium1.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/singapore.xml, https://raw.githubusercontent.com/azimabid00/epg/main/astro_epg.xml, https://raw.githubusercontent.com/luizoliveira1970/epg/main/epg.xml, https://www.open-epg.com/files/india1.xml, https://www.open-epg.com/files/portugal.xml, https://www.open-epg.com/files/unitedkingdom4.xml, https://www.open-epg.com/files/unitedstates3.xml, https://www.open-epg.com/files/mexico2.xml, https://www.open-epg.com/files/unitedstates4.xml, https://www.open-epg.com/files/australia1.xml, https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/SkyGo/epg.xml, https://www.open-epg.com/files/canada3.xml, https://www.open-epg.com/files/france.xml, https://www.open-epg.com/files/germany2.xml, https://www.open-epg.com/files/germany3.xml, https://www.open-epg.com/files/germany4.xml, https://www.open-epg.com/files/switzerland3.xml, https://www.open-epg.com/files/ireland2.xml, https://raw.githubusercontent.com/Nomenteros/Nomentero_Epg/master/Nomenteroguide.xml, https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/DStv/za.xml, https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/PlutoTV/us.xml, https://raw.githubusercontent.com/skutyborsuk/IPTV/master/epg_v5.xml, https://www.open-epg.com/files/netherlands.xml, https://www.open-epg.com/files/turkey3, https://www.open-epg.com/files/italy1.xml, https://www.open-epg.com/files/argentina4.xml, https://www.open-epg.com/files/hongkong4.xml, https://www.open-epg.com/files/hongkong3.xml, https://www.open-epg.com/files/mexico.xml, https://www.open-epg.com/files/thailand.xml, https://www.open-epg.com/files/chile2.xml, https://www.open-epg.com/files/belgium.xml, https://www.open-epg.com/file/belgiumpremium.xml, https://www.open-epg.com/file/irelandpremium.xml, https://www.open-epg.com/file/uaepremium2.xml, https://www.open-epg.com/file/philippines1.xml, https://www.open-epg.com/file/philippines2.xml, https://www.open-epg.com/file/sportspremium1.xml, https://www.open-epg.com/file/koreapremium.xml" refresh="3600"
 
 ######################################################################TV CHANNELS#############################################################################################################################################
+#EXTINF:-1 tvg-id="RCTI HD - [Channel 430].id" group-title="INDONESIA TV" tvg-logo="https://iili.io/3xLPH7I.png",RCTI (V+)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 tvg-id="RCTI HD - [Saluran 430].id" group-title="INDONESIA TV" tvg-logo="https://iili.io/3xLPH7I.png",RCTI (V+)
 https://cempedak-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 
-#EXTINF:0 tvg-id="RCTI.id" group-title="INDONESIA TV" tvg-logo="https://iili.io/3xLiTap.png",RCTI (R+) 
-https://rcti-cutv.rctiplus.id/rcti-sdi.m3u8
-
+#EXTINF:-1 tvg-id="MNCTV HD - [Channel 432].id" group-title="INDONESIA TV" tvg-logo="https://iili.io/3xLsieS.png",MNCTV (V+)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 tvg-id="MNCTV HD - [Saluran 432].id" group-title="INDONESIA TV" tvg-logo="https://iili.io/3xLsieS.png",MNCTV (V+)
 https://cempedak-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 
-#EXTINF:0 tvg-id="MNCTV.id" group-title="INDONESIA TV" tvg-logo="https://iili.io/3xLsdVs.png",MNCTV (R+) 
-https://mnctv-cutv.rctiplus.id/mnctv-sdi.m3u8
-
+#EXTINF:-1 tvg-id="GTV HD - [Channel 431].id" group-title="INDONESIA TV" tvg-logo="https://iili.io/3xLL4Cg.png",GTV (V+)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 tvg-id="GTV HD - [Saluran 431].id" group-title="INDONESIA TV" tvg-logo="https://iili.io/3xLL4Cg.png",GTV (V+)
 https://cempedak-live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
 
-#EXTINF:0 tvg-id="GTV.id" group-title="INDONESIA TV" tvg-logo="https://iili.io/3xLLuIt.png",GTV (R+) 
+#EXTINF:0 tvg-id="RCTI HD - [Channel 430].id" group-title="INDONESIA TV" tvg-logo="https://iili.io/3xLiTap.png",RCTI (R+) 
+https://rcti-cutv.rctiplus.id/rcti-sdi.m3u8
+
+#EXTINF:0 tvg-id="MNCTV HD - [Channel 432].id" group-title="INDONESIA TV" tvg-logo="https://iili.io/3xLsdVs.png",MNCTV (R+) 
+https://mnctv-cutv.rctiplus.id/mnctv-sdi.m3u8
+
+#EXTINF:0 tvg-id="GTV HD - [Channel 431].id" group-title="INDONESIA TV" tvg-logo="https://iili.io/3xLLuIt.png",GTV (R+) 
 https://gtv-cutv.rctiplus.id/gtv-sdi.m3u8
 
-#EXTINF:-1 tvg-id="Indosiar - [Saluran 78].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://iili.io/JMp3wV1.png" group-title="INDONESIA TV",INDOSIAR
+#EXTINF:-1 tvg-id="Indosiar HD - [Channel 438].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://iili.io/JMp3wV1.png" group-title="INDONESIA TV",INDOSIAR
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv
 http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
 
-#EXTINF:-1 tvg-id="SCTV - [Saluran 89].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://iili.io/JMp3iiX.png" group-title="INDONESIA TV",SCTV
+#EXTINF:-1 tvg-id="SCTV HD - [Channel 437].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://iili.io/JMp3iiX.png" group-title="INDONESIA TV",SCTV
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv
 http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
 
-#EXTINF:-1 tvg-id="TRANS TV" tvg-logo="https://iili.io/JMp3ZUG.png" group-title="INDONESIA TV",Trans TV
+#EXTINF:-1 tvg-id="Trans TV - [Channel 87].id" tvg-logo="https://iili.io/JMp3ZUG.png" group-title="INDONESIA TV",Trans TV
 https://video.detik.com/transtv/smil:transtv.smil/chunklist_w962267898_b744100_sleng.m3u8
 
-#EXTINF:-1 tvg-id="Trans7" tvg-logo="https://iili.io/JMp3Qls.png" group-title="INDONESIA TV",Trans 7
+#EXTINF:-1 tvg-id="Trans 7 - [Channel 110].id" tvg-logo="https://iili.io/JMp3Qls.png" group-title="INDONESIA TV",Trans 7
 https://video.detik.com/trans7/smil:trans7.smil/chunklist_w1791373024_b744100_sleng.m3u8
 
+#EXTINF:-1 tvg-id="ANTV - [Channel 115].id" tvg-logo="https://iili.io/JMp31cb.png" group-title="INDONESIA TV",ANTV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 tvg-id="ANTV.id" tvg-logo="https://iili.io/JMp31cb.png" group-title="INDONESIA TV",ANTV
 https://cempedak-live-cdn.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
  
 #EXTINF:-1 tvg-id="Moji" tvg-logo="https://iili.io/JMp3vUJ.png" group-title="INDONESIA TV",MOJI HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.188 Safari/537.36 CrKey/1.54.250320
 http://op-group1-swiftservehd-1.dens.tv/h/h207/index.m3u8
 
+#EXTINF:-1 tvg-id="NET TV - [Channel 116].id" tvg-logo="https://iili.io/2Sg7qyF.png" group-title="INDONESIA TV",MDTV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 tvg-id="NET TV.id" tvg-logo="https://iili.io/2Sg7qyF.png" group-title="INDONESIA TV",MDTV
 https://cempedak-live-cdn.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
 
 #EXTINF:-1 tvg-id="TVRI" tvg-logo="https://iili.io/JMp3DJf.png" group-title="INDONESIA TV",TVRI
@@ -544,16 +544,17 @@ https://d1abp075u76pbq.cloudfront.net/live/eds/MNCSports-HD/sa_dash_vmx/MNCSport
 https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
 
 #EXTINF:-1 tvg-id="Sportstars 3 HD - [Channel 423].id" group-title="INDONESIA SPORTS" tvg-logo="https://iili.io/3H605iv.png",Sportstars 3
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=fadd2720deff5925ab86df0819cd7775:f67ff08c7ebc779f6a6fcfc83835f65b
-#EXTVLCOPT:http-referrer=https://visionplus.id
+#KODIPROP:inputstream.adaptive.license_type=https://multidrm.core.verimatrixcloud.net/widevine
+#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/kvdrm.php?id=114&type=drm
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd
 
 #EXTINF:-1 tvg-id="Sportstars 4 HD - [Channel 423].id" group-title="INDONESIA SPORTS" tvg-logo="https://iili.io/3xZ3vob.png",Sportstars 4
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b81b1942c65f35547ced1bff074206a5:a07dc4d86f51db7195f4b7e2abe9d9e8
-#EXTVLCOPT:http-referrer=https://visionplus.id
-https://d3b0v7fggu5zwm.cloudfront.net/out/v1/3654ca35e72440b6aaa897fd36231191/index.mpd
+#KODIPROP:inputstream.adaptive.license_key=b576e5f5f1bc4cbaa866e5b0face5a30:3377be6c3b5f688ebed687312c9b9d95
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/index.mpd
 
 #EXTINF:-1 tvg-id="SPOTV HD - [Channel 427].id" group-title="INDONESIA SPORTS" tvg-logo="https://iili.io/JjzVsK7.png",SPOTV
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -567,11 +568,8 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTVHD/mpd/SPOTVHD.mpd
 #KODIPROP:inputstream.adaptive.license_key=e6ed3fdf6e9f491d9ead109fc0b00cfc:3bc6c45722eb5fa7b343de9bffc4f7c7
 https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTV2HD/mpd/SPOTV2HD.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
-#EXTVLCOPT:http-referrer=https://visionplus.id
 #EXTINF:-1 tvg-id="beIN Sports 1 HD - [Channel 417].id" group-title="INDONESIA SPORTS" tvg-logo="https://iili.io/JhkLZXa.png",beIN Sports 1 
-https://cempedak-cdn-fly.mncnow.id/live/eds/BEIN01/sa_dash_vmx/BEIN01.mpd
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/295289
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
@@ -579,11 +577,8 @@ https://cempedak-cdn-fly.mncnow.id/live/eds/BEIN01/sa_dash_vmx/BEIN01.mpd
 #EXTINF:-1 tvg-id="beIN Sports 2 HD - [Channel 418].id" group-title="INDONESIA SPORTS" tvg-logo="https://iili.io/JhkQ9dN.png", beIN Sports 2 
 https://cempedak-cdn-fly.mncnow.id/live/eds/BEIN02/sa_dash_vmx/BEIN02.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
-#EXTVLCOPT:http-referrer=https://visionplus.id
 #EXTINF:-1 tvg-id="beIN Sports 3 HD - [Channel 419].id" group-title="INDONESIA SPORTS" tvg-logo="https://iili.io/JhkQCrl.png", beIN Sports 3  
-https://cempedak-cdn-fly.mncnow.id/live/eds/BEIN03/sa_dash_vmx/BEIN03.mpd
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/306458
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
@@ -704,16 +699,10 @@ https://dokko1new.koskoros.ru/dokko1/premium538/mono.m3u8
 https://windnew.koskoros.ru/wind/premium43/mono.m3u8
 
 #EXTINF:-1 tvg-id="Eurosport 1" tvg-logo="https://iili.io/JhkZx6v.png" group-title="EUROPA SPORTS",Eurosport 1 España
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://pkpakiplay.xyz/
-#EXTVLCOPT:http-origin=https://pkpakiplay.xyz
-https://zekonew.koskoros.ru/zeko/premium524/mono.m3u8
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/348
  
 #EXTINF:-1 tvg-id="Eurosport 2" tvg-logo="https://iili.io/JhkZIFR.png" group-title="EUROPA SPORTS",Eurosport 2 España
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://pkpakiplay.xyz/
-#EXTVLCOPT:http-origin=https://pkpakiplay.xyz
-https://ddy6new.koskoros.ru/ddy6/premium525/mono.m3u8
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/3218
 
 #EXTINF:-1 tvg-logo="https://iili.io/3uQln5J.png" group-title="EUROPA SPORTS",LALIGA TV Hypermotion V
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
@@ -732,22 +721,16 @@ https://ddy6new.iosplayer.ru/ddy6/premium414/mono.m3u8
 https://ddy6new.iosplayer.ru/ddy6/premium415/mono.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://iili.io/3ujB3fn.png" group-title="EUROPA SPORTS",Eleven Sports 1 Poland
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://pkpakiplay.xyz/
-#EXTVLCOPT:http-origin=https://pkpakiplay.xyz
-https://windnew.koskoros.ru/wind/premium71/mono.m3u8
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/347
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://iili.io/3ujBSqX.png" group-title="EUROPA SPORTS",Eleven Sports 2 Poland
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://pkpakiplay.xyz/
-#EXTVLCOPT:http-origin=https://pkpakiplay.xyz
-https://windnew.koskoros.ru/wind/premium72/mono.m3u8
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/3643
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://iili.io/3ujBSqX.png" group-title="EUROPA SPORTS",Eleven Sports 3 Poland
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://pkpakiplay.xyz/
-#EXTVLCOPT:http-origin=https://pkpakiplay.xyz
-https://ddy6new.koskoros.ru/ddy6/premium428/mono.m3u8
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/3644
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://iili.io/3ujBSqX.png" group-title="EUROPA SPORTS",Eleven Sports 4 Poland
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/3645
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://iili.io/d06YU1p.png" group-title="EUROPA SPORTS",DAZN 1 Portugal
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
