@@ -166,19 +166,19 @@ http://116.254.112.74:80/hls/cakralive.m3u8
 https://e.siar.us/live/surabayatv.m3u8
 
 ================================> NASIONAL-HD <========================================
-#EXTINF:-1 tvg-id="RCTI.HD.id" group-title="NASIONAL" tvg-logo="https://iili.io/3xLPH7I.png",RCTI HD
+#EXTINF:-1 tvg-id="RCTI.HD.id" group-title="NASIONAL-HD" tvg-logo="https://iili.io/3xLPH7I.png",RCTI HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9ba3e153ef8956d6e2b0684fcf74f58f:dbc28cb5c6426080f984a5b6d436bb30
 #EXTVLCOPT:http-referrer=https://visionplus.id
 https://dsgtq5sngxkde.cloudfront.net/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 
-#EXTINF:-1 tvg-id="MNCTV.HD.id" group-title="NASIONAL" tvg-logo="https://iili.io/3xLsieS.png",MNCTV HD
+#EXTINF:-1 tvg-id="MNCTV.HD.id" group-title="NASIONAL-HD" tvg-logo="https://iili.io/3xLsieS.png",MNCTV HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=828e0aba9825c3546a2831e4c0c36f7f:f85d3dcd38981368ab3da597e97ebdcc
 #EXTVLCOPT:http-referrer=https://visionplus.id
 https://d1abp075u76pbq.cloudfront.net/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 
-#EXTINF:-1 tvg-id="GTV.id" group-title="NASIONAL" tvg-logo="https://iili.io/3xLL4Cg.png",GTV HD
+#EXTINF:-1 tvg-id="GTV.id" group-title="NASIONAL-HD" tvg-logo="https://iili.io/3xLL4Cg.png",GTV HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=88f6c7cbd793374cb5f12d7e26dcd63b:e82daa7c7bfb03d99327463fdbd37336
 #EXTVLCOPT:http-referrer=https://visionplus.id
@@ -252,17 +252,17 @@ https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c68572841ba301729ce4a
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cd6df9359238f/manifest.mpd
 
-#EXTINF:-1 tvg-id="MetroTV.id" tvg-logo="https://iili.io/JV3xZtS.png" group-title="NASIONAL",Metro TV
+#EXTINF:-1 tvg-id="MetroTV.id" tvg-logo="https://iili.io/JV3xZtS.png" group-title="NASIONAL-HD",Metro TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://edge.medcom.id/live-edge/smil:metro.smil/playlist.m3u8
  
-#EXTINF:-1 tvg-id="CNNIndonesia.id" tvg-logo="https://iili.io/JV3xSnt.png" group-title="NASIONAL",CNN Indonesia
+#EXTINF:-1 tvg-id="CNNIndonesia.id" tvg-logo="https://iili.io/JV3xSnt.png" group-title="NASIONAL-HD",CNN Indonesia
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w891045790_b384000_sleng.m3u8
  
-#EXTINF:-1 tvg-id="CNBCIndonesia.id" tvg-logo="https://iili.io/28yAlAN.png" group-title="NASIONAL",CNBC Indonesia
+#EXTINF:-1 tvg-id="CNBCIndonesia.id" tvg-logo="https://iili.io/28yAlAN.png" group-title="NASIONAL-HD",CNBC Indonesia
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w1843433135_b384000_sleng.m3u8
  
-#EXTINF:-1 tvg-id="KompasTV.id" tvg-logo="https://iili.io/JV3x6cG.png" group-title="NASIONAL",Kompas TV
+#EXTINF:-1 tvg-id="KompasTV.id" tvg-logo="https://iili.io/JV3x6cG.png" group-title="NASIONAL-HD",Kompas TV
 #EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3 
 https://flv.intechmedia.net/live/ch102.m3u8
  
@@ -272,74 +272,74 @@ https://flv.intechmedia.net/live/ch102.m3u8
 #EXTVLCOPT:http-referrer=https://visionplus.id
 https://d1abp075u76pbq.cloudfront.net/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
 
-#EXTINF:-1 tvg-id="MNCNews.id" tvg-logo="https://iili.io/JV3xQN2.png" group-title="NASIONAL",SINDONEWS TV
+#EXTINF:-1 tvg-id="MNCNews.id" tvg-logo="https://iili.io/JV3xQN2.png" group-title="NASIONAL-HD",SINDONEWS TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=26cc3e3343858d3986322f16e10b5823:0ad735e707e1c79bc550efa49f2ea4bd
 #EXTVLCOPT:http-referrer=https://visionplus.id/
 https://d1abp075u76pbq.cloudfront.net/live/eds/MNCnews-HDD/sa_dash_vmx/MNCnews-HDD.mpd
  
-#EXTINF:-1 tvg-id="IDX.id" tvg-logo="https://iili.io/JV3xvtI.png" group-title="NASIONAL",IDX Channel
+#EXTINF:-1 tvg-id="IDX.id" tvg-logo="https://iili.io/JV3xvtI.png" group-title="NASIONAL-HD",IDX Channel
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fbdbe252e6354b175852d1929c42d848:7a8bb14fcf8fd0b896ab41c29a78aae0
 #EXTVLCOPT:http-referrer=https://visionplus.id/
 https://d1abp075u76pbq.cloudfront.net/live/eds/IDX/sa_dash_vmx/IDX.mpd
  
-#EXTINF:-1 tvg-logo="https://iili.io/28yoeNn.png" group-title="NASIONAL",IDTV
+#EXTINF:-1 tvg-logo="https://iili.io/28yoeNn.png" group-title="NASIONAL-HD",IDTV
 https://b1world.beritasatumedia.com/Beritasatu/B1World_1280x720.m3u8
 
-#EXTINF:-1 tvg-id="JawaPosTV.id" tvg-logo="https://iili.io/dA8evOF.png" group-title="NASIONAL",Jawa Pos TV (Surabaya)
+#EXTINF:-1 tvg-id="JawaPosTV.id" tvg-logo="https://iili.io/dA8evOF.png" group-title="NASIONAL-HD",Jawa Pos TV (Surabaya)
 https://jawapostv.siar.us/jawapostv/live/playlist.m3u8
  
-#EXTINF:-1 tvg-id="JawaPosTV.id" tvg-logo="https://iili.io/dA8evOF.png" group-title="NASIONAL",Jawa Pos TV (Jakarta)
+#EXTINF:-1 tvg-id="JawaPosTV.id" tvg-logo="https://iili.io/dA8evOF.png" group-title="NASIONAL-HD",Jawa Pos TV (Jakarta)
 http://63b2dc7196c38.streamlock.net:1935/ch6/myStream/chunklist.m3u8
  
-#EXTINF:-1 tvg-id="SEAToday.id" tvg-logo="https://iili.io/JV3xLAl.png" group-title="NASIONAL",SEA Today
+#EXTINF:-1 tvg-id="SEAToday.id" tvg-logo="https://iili.io/JV3xLAl.png" group-title="NASIONAL-HD",SEA Today
 #EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
 https://flv.intechmedia.net/live/ch106.m3u8
 
-#EXTINF:-1 tvg-id="TVRINasional.id" tvg-logo="https://iili.io/JMp3DJf.png" group-title="NASIONAL",TVRI
+#EXTINF:-1 tvg-id="TVRINasional.id" tvg-logo="https://iili.io/JMp3DJf.png" group-title="NASIONAL-HD",TVRI
 https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional-avc1_1500000=10003-mp4a_96000_eng=20000.m3u8
  
-#EXTINF:-1 tvg-logo="https://iili.io/JV3xmPe.png" group-title="NASIONAL",TVRI World
+#EXTINF:-1 tvg-logo="https://iili.io/JV3xmPe.png" group-title="NASIONAL-HD",TVRI World
 https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
  
-#EXTINF:-1 tvg-logo="https://iili.io/JbtCoiu.png" group-title="NASIONAL",BN Channel
+#EXTINF:-1 tvg-logo="https://iili.io/JbtCoiu.png" group-title="NASIONAL-HD",BN Channel
 #EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
 https://flv.intechmedia.net/live/ch112.m3u8
 
-#EXTINF:-1 tvg-id="BTV.id" tvg-logo="https://iili.io/28yoB87.png" group-title="NASIONAL",BTV
+#EXTINF:-1 tvg-id="BTV.id" tvg-logo="https://iili.io/28yoB87.png" group-title="NASIONAL-HD",BTV
 https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
 
-#EXTINF:-1 tvg-id="DAAI.TV.id" group-title="NASIONAL" tvg-logo="https://iili.io/JMp3WNV.png",DAAI TV
+#EXTINF:-1 tvg-id="DAAI.TV.id" group-title="NASIONAL-HD" tvg-logo="https://iili.io/JMp3WNV.png",DAAI TV
 https://cempedak-live-cdn.mncnow.id/live/eds/DAAITV/sa_dash_vmx/DAAITV.mpd
 
-#EXTINF:-1 tvg-id="Nusantara.TV.id" tvg-logo="https://iili.io/2W8UsX2.png" group-title="NASIONAL",Nusantara TV
+#EXTINF:-1 tvg-id="Nusantara.TV.id" tvg-logo="https://iili.io/2W8UsX2.png" group-title="NASIONAL-HD",Nusantara TV
 https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
 
-#EXTINF:-1 tvg-id="GarudaTV.id" tvg-logo="https://iili.io/2rCEOZl.png" group-title="NASIONAL",Garuda TV
+#EXTINF:-1 tvg-id="GarudaTV.id" tvg-logo="https://iili.io/2rCEOZl.png" group-title="NASIONAL-HD",Garuda TV
 https://etv-cdn.kdb.co.id/GarudaTV-Stream/index.m3u8
  
-#EXTINF:-1 tvg-id="Magna Channel.id" tvg-logo="https://iili.io/JMp3eKg.png" group-title="NASIONAL",Magna Channel
+#EXTINF:-1 tvg-id="Magna Channel.id" tvg-logo="https://iili.io/JMp3eKg.png" group-title="NASIONAL-HD",Magna Channel
 https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://iili.io/2XL4LWg.png" group-title="NASIONAL",JOWO CHANNEL
+#EXTINF:-1 tvg-logo="https://iili.io/2XL4LWg.png" group-title="NASIONAL-HD",JOWO CHANNEL
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv
 https://op-group1-swiftservehd-1.dens.tv/h/h108/index2.m3u8
 
-#EXTINF:-1 tvg-id="JakTV.id" tvg-logo="https://iili.io/Jbtnm4s.png" group-title="NASIONAL",JakTV
+#EXTINF:-1 tvg-id="JakTV.id" tvg-logo="https://iili.io/Jbtnm4s.png" group-title="NASIONAL-HD",JakTV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f2c9087e5432ce2c2f4ae8e1fd77ae4c:f7a50262991ca7d505fce1572a7f0c2a
 #EXTVLCOPT:http-referrer=https://visionplus.id/
 https://d1abp075u76pbq.cloudfront.net/live/eds/JakTV/sa_dash_vmx/JakTV.mpd
 
-#EXTINF:-1 tvg-id="JTV.id" tvg-logo="https://iili.io/JbtoFZ7.png" group-title="NASIONAL",JTV
+#EXTINF:-1 tvg-id="JTV.id" tvg-logo="https://iili.io/JbtoFZ7.png" group-title="NASIONAL-HD",JTV
 https://63b2dc7196c38.streamlock.net:1937/ch2/myStream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://iili.io/JbtnA1s.png" group-title="NASIONAL",Semarang TV
+#EXTINF:-1 tvg-logo="https://iili.io/JbtnA1s.png" group-title="NASIONAL-HD",Semarang TV
 http://116.254.112.74:80/hls/cakralive.m3u8
 
-#EXTINF:-1 tvg-logo="https://iili.io/Jbtncp2.png" group-title="NASIONAL",Surabaya TV
+#EXTINF:-1 tvg-logo="https://iili.io/Jbtncp2.png" group-title="NASIONAL-HD",Surabaya TV
 https://e.siar.us/live/surabayatv.m3u8
 
 <=============== NASIONAL SPORTS =====================>
